@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Thermileo</string>
+    <string name="hello_world">THERMILEO</string>
+    <string name="action_settings">Settings</string>
+    <color name="red">#0B614B</color>
+
+</resources>
